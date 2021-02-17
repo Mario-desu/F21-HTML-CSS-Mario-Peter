@@ -2,19 +2,27 @@ div {
     margin: 5px;
     border: solid 2px purple;
 }
-#third > p {
-    display: none;
 
-}
 #third span {
     color: red;
+}
+
+#first p {
+    font-size: 1.2em;
+}
+
+/*#third > p {
+    display: none;
+
 }
 h1 {
     display: none;
 }
+
 #fifth{
     display: none;
 }
+
 img {
     visibility: visible;
-}
+}*/
