@@ -1,0 +1,20 @@
+div {
+    margin: 5px;
+    border: solid 2px purple;
+}
+#third > p {
+    display: none;
+
+}
+#third span {
+    color: red;
+}
+h1 {
+    display: none;
+}
+#fifth{
+    display: none;
+}
+img {
+    visibility: visible;
+}
